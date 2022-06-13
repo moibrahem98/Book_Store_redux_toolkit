@@ -1,0 +1,21 @@
+{
+  "books": [{
+      "title": "Learn React",
+      "price": "2",
+      "description": "Learn React From Scratch ",
+      "id": 1
+    },
+    {
+      "title": "Learn PHP",
+      "price": "2",
+      "description": "Learn PHP From Scratch Need More Practices ",
+      "id": 2
+    },
+    {
+      "title": "React Developer",
+      "price": "322",
+      "description": "A practice on react-redux-tool-kit using thunk",
+      "id": 3
+    }
+  ]
+}
